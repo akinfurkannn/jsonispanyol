@@ -2,7 +2,7 @@
 "pokemon":[
    {
     "il": "Adana",
-    "img": "https://i.ibb.co/KG2w5fk/adana.jpg",
+    "img": "https://i.ibb.co/C6WCN4j/adana.png",
     "gezi": [
 
         {
@@ -109,7 +109,7 @@
   },
   {
     "il": "Adıyaman",
-    "img": "https://i.ibb.co/SKDRhRY/adiyaman.jpg",
+    "img": "https://i.ibb.co/NKxdTSF/adiyaman.png",
     "gezi": [
         {
            "gidis":"Montaña Nemrut",
@@ -168,7 +168,7 @@
   },
   {
     "il": "Afyonkarahisar",
-    "img": "https://i.ibb.co/tJX7nC4/afyon.jpg",
+    "img": "https://i.ibb.co/1dVLKmp/afyon.png",
     "gezi": [
         {
            "gidis":"Gran Mezquita",
@@ -230,7 +230,7 @@
   },
   {
     "il": "Ağrı",
-    "img": "https://i.ibb.co/DMH6ZLY/agri.jpg",
+    "img": "https://i.ibb.co/5WqsTJk/agri.png",
     "gezi": [
         {
            "gidis":"Palacio de Ishak Pasha",
@@ -273,7 +273,7 @@
   },
   {
     "il": "Aksaray",
-    "img": "https://i.ibb.co/wyJnS5m/aksaray.png",
+    "img": "https://i.ibb.co/WsrL2zT/aksaray.png",
     "gezi": [
         {
            "gidis":"Montaña Hasan",
@@ -332,7 +332,7 @@
   },
   {
     "il": "Amasya",
-    "img": "https://i.ibb.co/4SwyP2Y/amasya.jpg",
+    "img": "https://i.ibb.co/NWM7dvd/amasya.png",
     "gezi": [
         {
            "gidis":"II. Mezquita y complejo de Beyazıt",
@@ -427,7 +427,7 @@
   },
   {
     "il": "Ankara",
-    "img": "https://i.ibb.co/4FjGL9X/ankara.png",
+    "img": "https://i.ibb.co/hgMxPf9/ankara.png",
     "gezi": [
         {
            "gidis":"Anıtkabir",
@@ -690,7 +690,7 @@
   },
   {
     "il": "Antalya",
-    "img": "https://i.ibb.co/m0FY24W/antalya.jpg",
+    "img": "https://i.ibb.co/PG66TGQ/antalya.png",
     "gezi": [
         {
            "gidis":"Cañón de Goynuk",
@@ -845,7 +845,7 @@
   },
   {
     "il": "Ardahan",
-    "img": "https://i.ibb.co/qms1VBF/ardahan.jpg",
+    "img": "https://i.ibb.co/sCZqc5t/ardahan.png",
     "gezi": [
         {
            "gidis":"Lago Çıldır",
@@ -867,7 +867,7 @@
   },
   {
     "il": "Artvin",
-    "img": "https://i.ibb.co/nrVBmp9/artvin.jpg",
+    "img": "https://i.ibb.co/2tk6G9K/artvin.png",
     "gezi": [
         {
            "gidis":"Cascada de Mençuna",
@@ -954,7 +954,7 @@
   },
   {
     "il": "Aydın",
-    "img": "https://i.ibb.co/hd2j3q3/aydin.jpg",
+    "img": "https://i.ibb.co/xFcP13G/aydin.png",
     "gezi": [
         {
            "gidis":"Ciudad antigua de Nysa",
@@ -1065,7 +1065,7 @@
   },
   {
     "il": "Balıkesir",
-    "img": "https://i.ibb.co/0M9Hbqd/balikesir.png",
+    "img": "https://i.ibb.co/10CzT6s/balikesir.png",
     "gezi": [
         {
            "gidis":"Museo Rahmi Koc",
@@ -1148,7 +1148,7 @@
   },
   {
     "il": "Bartın",
-    "img": "https://i.ibb.co/74tBzLJ/bartin.jpg",
+    "img": "https://i.ibb.co/CQQ2cqD/bartin.png",
     "gezi": [
         {
            "gidis":"Castillo de Amasra",
@@ -1203,7 +1203,7 @@
   },
   {
     "il": "Batman",
-    "img": "https://i.ibb.co/YBs9H00/batman.jpg",
+    "img": "https://i.ibb.co/LCN996k/batman.jpg",
     "gezi": [
         {
            "gidis":"Hasankeyf",
@@ -1222,7 +1222,7 @@
   },
   {
     "il": "Bayburt",
-    "img": "https://i.ibb.co/gD9NvYW/bayburt.jpg",
+    "img": "https://i.ibb.co/TkYxZCx/bayburt.png",
     "gezi": [
         {
            "gidis":"Museo Baksi",
@@ -1261,7 +1261,7 @@
   },
   {
     "il": "Bilecik",
-    "img": "https://i.ibb.co/YtHnTS0/bilecik.png",
+    "img": "https://i.ibb.co/JjKHV3g/bilecik.jpg",
     "gezi": [
         {
            "gidis":"Tumba de Ertugrul Gazi",
@@ -1339,7 +1339,7 @@
   },
   {
     "il": "Bingöl",
-    "img": "https://i.ibb.co/fdbSm2K/bingol.jpg",
+    "img": "https://i.ibb.co/jJwkV9G/bingol.png",
     "gezi": [
         {
            "gidis":"Isla flotante",
@@ -1355,7 +1355,7 @@
   },
   {
     "il": "Bitlis",
-    "img": "https://i.ibb.co/pXKsYhG/bitlis.jpg",
+    "img": "https://i.ibb.co/VBSNDt0/bitlis.png",
     "gezi": [
         {
            "gidis":"Lago Nemrut",
@@ -1422,7 +1422,7 @@
   },
   {
     "il": "Bolu",
-    "img": "https://i.ibb.co/drYGCNw/bolu.png",
+    "img": "https://i.ibb.co/vkPpzHW/bolu.png",
     "gezi": [
         {
            "gidis":"Lago Gölcük",
@@ -1477,7 +1477,7 @@
   },
   {
     "il": "Burdur",
-    "img": "https://i.ibb.co/YhQcFyn/burdur.jpg",
+    "img": "https://i.ibb.co/fdWT9FR/burdur.png",
     "gezi": [
         {
            "gidis":"Hallazgos arqueológicos de Sagalassos",
@@ -1544,7 +1544,7 @@
   },
   {
     "il": "Bursa",
-    "img": "https://i.ibb.co/KwLPKYw/bursa.jpg",
+    "img": "https://i.ibb.co/hY0p0H3/bursa.png",
     "gezi": [
         {
            "gidis":"Gran Mezquita de Bursa",
@@ -1703,7 +1703,7 @@
   },
   {
     "il": "Çanakkale",
-    "img": "https://i.ibb.co/yqT6krX/canakkale.png",
+    "img": "https://i.ibb.co/qxNtsg1/canakkale.png",
     "gezi": [
         {
            "gidis":"Monumento a los Mártires de Çanakkale",
@@ -1854,7 +1854,7 @@
   },
   {
     "il": "Çankırı",
-    "img": "https://i.ibb.co/HrhSZZ1/cankiri.png",
+    "img": "https://i.ibb.co/ZXG0pPr/cankiri.png",
     "gezi": [
         {
            "gidis":"Cueva de sal",
@@ -1896,7 +1896,7 @@
   },
   {
     "il": "Çorum",
-    "img": "https://i.ibb.co/qs7gqD0/corum.png",
+    "img": "https://i.ibb.co/X54Jqbc/corum.png",
     "gezi": [
         {
            "gidis":"Ciudad antigua de Hattusa",
@@ -1943,7 +1943,7 @@
   },
   {
     "il": "Denizli",
-    "img": "https://i.ibb.co/K6RR6w2/denizli.jpg",
+    "img": "https://i.ibb.co/ZzWrrcP/denizli.png",
     "gezi": [
         {
            "gidis":"Anfiteatro de Hierápolis",
@@ -2050,7 +2050,7 @@
   },
   {
     "il": "Diyarbakır",
-    "img": "https://i.ibb.co/TPCf6gf/diyarbakir.jpg",
+    "img": "https://i.ibb.co/F6bf13s/diyarbakir.png",
     "gezi": [
         {
            "gidis":"Gran mezquita de Diyarbakir",
@@ -2141,7 +2141,7 @@
   },
   {
     "il": "Düzce",
-    "img": "https://i.ibb.co/Hnzn2tS/duzce.jpg",
+    "img": "https://i.ibb.co/F7zTgvK/duzce.png",
     "gezi": [
         {
            "gidis":"Parque natural de la cascada de Güzeldere",
@@ -2200,7 +2200,7 @@
   },
   {
     "il": "Edirne",
-    "img": "https://i.ibb.co/z7p2p8k/edirne.jpg",
+    "img": "https://i.ibb.co/VwDvNb2/edirne.png",
     "gezi": [
         {
            "gidis":"Mezquita de Selimiye",
@@ -2342,7 +2342,7 @@
   },
   {
     "il": "Erzincan",
-    "img": "https://i.ibb.co/0GHkGgC/erzincan.png",
+    "img": "https://i.ibb.co/nmW2Jjx/erzincan.png",
     "gezi": [
         {
            "gidis":"Cañón oscuro de Kemaliye",
@@ -2385,7 +2385,7 @@
   },
   {
     "il": "Erzurum",
-    "img": "https://i.ibb.co/G0TZZbj/erzurum.jpg",
+    "img": "https://i.ibb.co/t4Q9fTd/erzurum.jpg",
     "gezi": [
         {
            "gidis":"La madraza del doble minarete",
@@ -2471,7 +2471,7 @@
   },
 {
     "il": "Eskişehir",
-    "img": "https://i.ibb.co/PzrSDw3/eskisehir.jpg",
+    "img": "https://i.ibb.co/2MvW6wt/eskisehir.png",
     "gezi": [
         {
            "gidis":"City Parque",
@@ -2554,7 +2554,7 @@
   },
   {
     "il": "Gaziantep",
-    "img": "https://i.ibb.co/HtgfWsJ/gaziantep.jpg",
+    "img": "https://i.ibb.co/vJFbJpx/gaziantep.png",
     "gezi": [
         {
            "gidis":"Museo del Mosaico Zeugma",
@@ -2649,7 +2649,7 @@
   },
   {
     "il": "Giresun",
-    "img": "https://i.ibb.co/93t9HnV/giresun.jpg",
+    "img": "https://i.ibb.co/xCHqVJP/giresun.png",
     "gezi": [
         {
            "gidis":"Castillo de Giresun",
@@ -2704,7 +2704,7 @@
   },
   {
     "il": "Gümüşhane",
-    "img": "https://i.ibb.co/WGf16R8/gumushane.png",
+    "img": "https://i.ibb.co/KwDWgPh/gumushane.jpg",
     "gezi": [
         {
            "gidis":"Cueva Karaca",
@@ -2739,7 +2739,7 @@
   },
   {
     "il": "Hakkari",
-    "img": "https://i.ibb.co/VtwqMMj/hakkari.jpg",
+    "img": "https://i.ibb.co/kGHt6wZ/hakkari.png",
     "gezi": [
         {
            "gidis":"Resko Hill",
@@ -2762,7 +2762,7 @@
   },
   {
     "il": "Hatay",
-    "img": "https://i.ibb.co/2W8rzQC/hatay.jpg",
+    "img": "https://i.ibb.co/YcgS407/hatay.png",
     "gezi": [
         {
            "gidis":"Museo Arqueológico de Antakya",
@@ -2853,7 +2853,7 @@
   },
   {
     "il": "Iğdır",
-    "img": "https://i.ibb.co/yPvMjb1/igdir.jpg",
+    "img": "https://i.ibb.co/P5FCvkw/igdir.png",
     "gezi": [
         {
            "gidis":"Museo Conmemorativo de los Mártir Turcos",
@@ -2876,7 +2876,7 @@
   },
   {
     "il": "Isparta",
-    "img": "https://i.ibb.co/tbs6yHQ/isparta.jpg",
+    "img": "https://i.ibb.co/4dZ5fZG/isparta.png",
     "gezi": [
         {
            "gidis":"Lago Egirdir",
@@ -2943,7 +2943,7 @@
   },
  {
     "il": "İstanbul",
-    "img": "https://i.ibb.co/F6QpgLv/istanbul.jpg",
+    "img": "https://i.ibb.co/dJFvRfx/istanbul.png",
     "gezi": [
         {
            "gidis":"Mezquita de Suleymaniye",
@@ -3282,7 +3282,7 @@
   },
   {
     "il": "İzmir",
-    "img": "https://i.ibb.co/QPmwSGj/izmir.png",
+    "img": "https://i.ibb.co/GvQYjh8/izmir.jpg",
     "gezi": [
         {
            "gidis":"Biblioteca Celso",
@@ -3589,7 +3589,7 @@
   },
   {
     "il": "Kahramanmaraş",
-    "img": "https://i.ibb.co/2S9RDK7/kahramanmaras.jpg",
+    "img": "https://i.ibb.co/qMrZSkk/kahramanmaras.png",
     "gezi": [
         {
            "gidis":"Mezquita de Abdulhamid Khan",
@@ -3656,7 +3656,7 @@
   },
   {
     "il": "Karabük",
-    "img": "https://i.ibb.co/LrzgfcM/karabuk.png",
+    "img": "https://i.ibb.co/FskDt3j/karabuk.png",
     "gezi": [
         {
            "gidis":"Cañón de Tokatlı",
@@ -3739,7 +3739,7 @@
   },
   {
     "il": "Karaman",
-    "img": "https://i.ibb.co/p26NJjn/karaman.jpg",
+    "img": "https://i.ibb.co/Mg8qk50/karaman.png",
     "gezi": [
         {
            "gidis":"Presa de Ermenek",
@@ -3790,7 +3790,7 @@
   },
   {
     "il": "Kars",
-    "img": "https://i.ibb.co/3kv3RmQ/kars.png",
+    "img": "https://i.ibb.co/tx54xc5/kars.png",
     "gezi": [
         {
            "gidis":"Ciudad antigua de Ani",
@@ -3853,7 +3853,7 @@
   },
   {
     "il": "Kastamonu",
-    "img": "https://i.ibb.co/djJDx7y/kastamonu.png",
+    "img": "https://i.ibb.co/zPvQL38/kastamonu.png",
     "gezi": [
         {
            "gidis":"Hz. Complejo Pir Sheikh Şaban-i Veli",
@@ -3920,7 +3920,7 @@
   },
   {
     "il": "Kayseri",
-    "img": "https://i.ibb.co/QYmfDzy/kayseri.jpg",
+    "img": "https://i.ibb.co/K2XhPXM/kayseri.png",
     "gezi": [
         {
            "gidis":"Montaña Erciyes",
@@ -4027,7 +4027,7 @@
   },
   {
     "il": "Kırıkkale",
-    "img": "https://i.ibb.co/58qWgs8/kirikkale.jpg",
+    "img": "https://i.ibb.co/QrqGJ0q/kirikkale.png",
     "gezi": [
         {
            "gidis":"Mezquita Nur",
@@ -4058,7 +4058,7 @@
   },
   {
     "il": "Kırklareli",
-    "img": "https://i.ibb.co/vYn1sK9/kirklareli.jpg",
+    "img": "https://i.ibb.co/287RN10/kirklareli.png",
     "gezi": [
         {
            "gidis":"Cueva Dupnisa",
@@ -4117,7 +4117,7 @@
   },
   {
     "il": "Kırşehir",
-    "img": "https://i.ibb.co/Ldq2G30/kirsehir.jpg",
+    "img": "https://i.ibb.co/9cc5V1Y/kirsehir.png",
     "gezi": [
         {
            "gidis":"Madraza de Cacabey",
@@ -4148,7 +4148,7 @@
   },
   {
     "il": "Kilis",
-    "img": "https://i.ibb.co/1nL3Cgh/kilis.jpg",
+    "img": "https://i.ibb.co/nbwJMbz/kilis.png",
     "gezi": [
         {
            "gidis":"Castillo de Ravanda",
@@ -4505,7 +4505,7 @@
   },
   {
     "il": "Malatya",
-    "img": "https://i.ibb.co/KxHxg3Y/malatya.jpg",
+    "img": "https://i.ibb.co/tqTXRW3/malatya.png",
     "gezi": [
         {
            "gidis":"Levent Valley",
@@ -4564,7 +4564,7 @@
   },
   {
     "il": "Manisa",
-    "img": "https://i.ibb.co/x3bCg17/manisa.jpg",
+    "img": "https://i.ibb.co/Nrrrfb3/manisa.png",
     "gezi": [
         {
            "gidis":"Ciudad antigua de Sardes",
@@ -4631,7 +4631,7 @@
   },
   {
     "il": "Mardin",
-    "img": "https://i.ibb.co/J79Mp70/mardin.jpg",
+    "img": "https://i.ibb.co/2KZtwwx/mardin.png",
     "gezi": [
         {
            "gidis":"Gran Mezquita de Mardin",
@@ -4698,7 +4698,7 @@
   },
   {
     "il": "Mersin",
-    "img": "https://i.ibb.co/gZPKCnj/mersin.pngg",
+    "img": "https://i.ibb.co/9Gxrh07/mersin.png",
     "gezi": [
         {
            "gidis":"Cueva Aynalıgöl (Gilindire)",
@@ -4825,7 +4825,7 @@
   },
   {
     "il": "Muğla",
-    "img": "https://i.ibb.co/sgy001f/mugla.jpg",
+    "img": "https://i.ibb.co/CBjVJfZ/mugla.png",
     "gezi": [
         {
            "gidis":"Babadag",
@@ -5108,7 +5108,7 @@
   },
   {
     "il": "Muş",
-    "img": "https://i.ibb.co/d6sfWRj/mus.png",
+    "img": "https://i.ibb.co/h7jmbNV/mus.png",
     "gezi": [
         {
            "gidis":"Puente histórico de Murat",
@@ -5127,7 +5127,7 @@
   },
   {
     "il": "Nevşehir",
-    "img": "https://i.ibb.co/1LcNVWN/nevsehir.jpg",
+    "img": "https://i.ibb.co/BNY7GMj/nevsehir.png",
     "gezi": [
         {
            "gidis":"Valle rojo",
@@ -5222,7 +5222,7 @@
   },
   {
     "il": "Niğde",
-    "img": "https://i.ibb.co/tsThKtT/nigde.jpg",
+    "img": "https://i.ibb.co/Qk046fC/nigde.png",
     "gezi": [
         {
            "gidis":"Monasterio de Gümüşler",
@@ -5324,7 +5324,7 @@
   },
   {
     "il": "Osmaniye",
-    "img": "https://i.ibb.co/zR2DZQF/osmaniye.png",
+    "img": "https://i.ibb.co/1qHqc6T/osmaniye.png",
     "gezi": [
         {
            "gidis":"Museo al aire libre de Karatepe Aslantas",
@@ -5375,7 +5375,7 @@
   },
   {
     "il": "Rize",
-    "img": "https://i.ibb.co/PgpJCrW/rize.png",
+    "img": "https://i.ibb.co/K6nB0Zq/rize.png",
     "gezi": [
         {
            "gidis":"Storm Creek",
@@ -5470,7 +5470,7 @@
   },
   {
     "il": "Sakarya",
-    "img": "https://i.ibb.co/gJ1m2QY/sakarya.png",
+    "img": "https://i.ibb.co/pbgy5vb/sakarya.png",
     "gezi": [
         {
            "gidis":"lago sapanca",
@@ -5533,7 +5533,7 @@
   },
   {
     "il": "Samsun",
-    "img": "https://i.ibb.co/3cvnGG7/samsun.jpg",
+    "img": "https://i.ibb.co/NYzMvh3/samsun.png",
     "gezi": [
         {
            "gidis":"Monumento de honor",
@@ -5616,7 +5616,7 @@
   },
   {
     "il": "Siirt",
-    "img": "https://i.ibb.co/qY5qcfB/siirt.jpg",
+    "img": "https://i.ibb.co/hHqmhrM/siirt.png",
     "gezi": [
         {
            "gidis":"Tumba de Veysel Karani",
@@ -5639,7 +5639,7 @@
   },
   {
     "il": "Sinop",
-    "img": "https://i.ibb.co/dWPqTML/sinop.jpg",
+    "img": "https://i.ibb.co/Np705t8/sinop.png",
     "gezi": [
         {
            "gidis":"Bahía de Hamsilos",
@@ -5698,7 +5698,7 @@
   },
   {
     "il": "Sivas",
-    "img": "https://i.ibb.co/PwwygQm/sivas.jpg",
+    "img": "https://i.ibb.co/dgD9Fsq/sivas.png",
     "gezi": [
         {
            "gidis":"Lago Gokpinar",
@@ -5833,7 +5833,7 @@
   },
   {
     "il": "Şanlıurfa",
-    "img": "https://i.ibb.co/L8X4fVk/sanliurfa.png",
+    "img": "https://i.ibb.co/pnqj4J5/sanliurfa.png",
     "gezi": [
         {
            "gidis":"Gobekli Tepe",
@@ -5900,7 +5900,7 @@
   },
   {
     "il": "Şırnak",
-    "img": "https://i.ibb.co/MGD1Wbv/sirnak.png",
+    "img": "https://i.ibb.co/6yjbBpV/sirnak.png",
     "gezi": [
         {
            "gidis":"Parque sur de Yilmaz",
@@ -5919,7 +5919,7 @@
   },
   {
     "il": "Tekirdağ",
-    "img": "https://i.ibb.co/wcPbByH/tekirdag.png",
+    "img": "https://i.ibb.co/VWDpFLm/tekirdag.png",
     "gezi": [
         {
            "gidis":"Corbatas Barbare",
@@ -6012,7 +6012,7 @@
   },
   {
     "il": "Trabzon",
-    "img": "https://i.ibb.co/MRd1ZWP/trabzon.jpg",
+    "img": "https://i.ibb.co/YckvFzD/trabzon.png",
     "gezi": [
         {
            "gidis":"Mansión Trabzon Ataturk",
@@ -6111,7 +6111,7 @@
   },
   {
     "il": "Tunceli",
-    "img": "https://i.ibb.co/0qXLjJs/tunceli.jpg",
+    "img": "https://i.ibb.co/hmTR4br/tunceli.png",
     "gezi": [
         {
            "gidis":"Hechizos de Munzur",
@@ -6154,7 +6154,7 @@
   },
   {
     "il": "Uşak",
-    "img": "https://i.ibb.co/mXWgdZj/usak.jpg",
+    "img": "https://i.ibb.co/B2h32Kv/usak.jpg",
     "gezi": [
         {
            "gidis":"Cañón de Ulubey",
@@ -6205,7 +6205,7 @@
   },
   {
     "il": "Van",
-    "img": "https://i.ibb.co/Cbm2q25/van.jpg",
+    "img": "https://i.ibb.co/Tv0G9Qq/van.png",
     "gezi": [
         {
            "gidis":"Van Lake",
@@ -6260,7 +6260,7 @@
   },
   {
     "il": "Yalova",
-    "img": "https://i.ibb.co/LgsfK7H/yalova.png",
+    "img": "https://i.ibb.co/qRh1TK0/yalova.png",
     "gezi": [
         {
            "gidis":"Mansión Caminante",
@@ -6315,7 +6315,7 @@
   },
   {
     "il": "Yozgat",
-    "img": "https://i.ibb.co/FKRN82L/yozgat.jpg",
+    "img": "https://i.ibb.co/1XptpRm/yozgat.png",
     "gezi": [
         {
            "gidis":"Parque Nacional Yozgat Çamlığı",
@@ -6362,7 +6362,7 @@
   },
   {
     "il": "Zonguldak",
-    "img": "https://i.ibb.co/mzZswDQ/zonguldak.jpg",
+    "img": "https://i.ibb.co/0K63QBj/zonguldak.png",
     "gezi": [
         {
            "gidis":"Cueva de Gokgol",
